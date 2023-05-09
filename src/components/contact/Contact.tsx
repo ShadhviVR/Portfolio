@@ -25,7 +25,7 @@ const Contact: React.FC = () => {
                   className="contact__button"
                   rel="noreferrer"
                 >
-                  Write me{" "}
+                  Send a message{" "}
                   <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                 </a>
               </div> <br />
@@ -41,7 +41,7 @@ const Contact: React.FC = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Write me{" "}
+                    Send a message{" "}
                     <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                   </a>
                 </div>

@@ -12,7 +12,7 @@ export const data: TypeMyData[] = [
     id: 1,
     title: "Movie-Streaming App",
     img_url: `${Movie}`,
-    link: "",
+    link: "https://net-vibe.vercel.app/",
   },
   {
     id: 2,

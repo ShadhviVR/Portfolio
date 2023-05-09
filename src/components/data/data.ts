@@ -18,7 +18,7 @@ export const data: TypeMyData[] = [
     id: 2,
     title: "Social App",
     img_url: `${Social}`,
-    link: "",
+    link: "https://flip-flop-one.vercel.app/",
   },
 
   {

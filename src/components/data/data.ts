@@ -4,7 +4,7 @@ import Movie from "../assets/project-1.png";
 import Social from "../assets/project-2.png";
 import Resto from "../assets/project-3.png";
 import Error from "../assets/project-4.png";
-import StarWars from "../assets/project-5.png";
+import Hangman from "../assets/project-5.png";
 import Cookie from "../assets/project-6.png";
 
 export const data: TypeMyData[] = [
@@ -36,9 +36,9 @@ export const data: TypeMyData[] = [
   },
   {
     id: 5,
-    title: "Star Wars",
-    img_url: `${StarWars}`,
-    link: "",
+    title: "Hangman",
+    img_url: `${Hangman}`,
+    link: "https://shadhvivr.github.io/Hangman/",
   },
   {
     id: 6,

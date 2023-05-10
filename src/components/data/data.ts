@@ -44,7 +44,7 @@ export const data: TypeMyData[] = [
     id: 6,
     title: "Cookie-Clicker Game",
     img_url: `${Cookie}`,
-    link: "https://liolle.github.io/CookieClicker/",
+    link: "https://cookie-clicker-henna.vercel.app/",
   },
 ];
 

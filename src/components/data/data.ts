@@ -6,6 +6,7 @@ import Resto from "../assets/project-3.png";
 import Error from "../assets/project-4.png";
 import Hangman from "../assets/project-5.png";
 import Cookie from "../assets/project-6.png";
+import Issue from "../assets/project7.png";
 
 export const data: TypeMyData[] = [
   {
@@ -27,21 +28,26 @@ export const data: TypeMyData[] = [
     img_url: `${Resto}`,
     link: "https://shadhvivr.github.io/resto_NT.github.io/",
   },
-
   {
     id: 4,
+    title: "Issue Tracker",
+    img_url: `${Issue}`,
+    link: "https://bye-bug.vercel.app/issues",
+  },
+  {
+    id: 5,
     title: "Error Page",
     img_url: `${Error}`,
     link: "https://shadhvivr.github.io/Error404/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Hangman",
     img_url: `${Hangman}`,
     link: "https://shadhvivr.github.io/Hangman/",
   },
   {
-    id: 6,
+    id: 7,
     title: "Cookie-Clicker Game",
     img_url: `${Cookie}`,
     link: "https://cookie-clicker-henna.vercel.app/",

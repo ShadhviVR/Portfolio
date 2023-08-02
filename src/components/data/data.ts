@@ -8,53 +8,60 @@ import Hangman from "../assets/project-5.png";
 import Cookie from "../assets/project-6.png";
 import Issue from "../assets/project7.png";
 import Budget from "../assets/project8.png";
+import ChatBot from "../assets/project9.png";
 
 export const data: TypeMyData[] = [
   {
     id: 1,
+    title: "ChatBot (Coming Soon)",
+    img_url: `${ChatBot}`,
+    link: "",
+  },
+  {
+    id: 2,
     title: "Budgeted Expense App",
     img_url: `${Budget}`,
     link: "https://budget-buddy-shadhvivr.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Movie-Streaming App",
     img_url: `${Movie}`,
     link: "https://net-vibe-shadhvivr.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "Social App",
     img_url: `${Social}`,
     link: "https://flip-flop-shadhvivr.vercel.app/",
   },
 
   {
-    id: 4,
+    id: 5,
     title: "Restaurant App",
     img_url: `${Resto}`,
     link: "https://shadhvivr.github.io/resto_NT.github.io/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Issue Tracker",
     img_url: `${Issue}`,
     link: "https://bye-bug-shadhvivr.vercel.app/issues",
   },
   {
-    id: 6,
+    id: 7,
     title: "Error Page",
     img_url: `${Error}`,
     link: "https://shadhvivr.github.io/Error404/",
   },
   {
-    id: 7,
+    id: 8,
     title: "Hangman",
     img_url: `${Hangman}`,
     link: "https://shadhvivr.github.io/Hangman/",
   },
   {
-    id: 8,
+    id: 9,
     title: "Cookie-Clicker Game",
     img_url: `${Cookie}`,
     link: "https://cookie-clicker-shadhvivr.vercel.app/",
